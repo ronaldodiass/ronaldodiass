@@ -1,7 +1,7 @@
-<h1>Muito Prazer ✌️</h1>
+<h1 align="center">Muito Prazer ✌️</h1>
 
 <div>
-<img src="https://media.discordapp.net/attachments/808170724224925736/1202801617955594290/ronaldo-pic.png?ex=65cec74c&is=65bc524c&hm=0d8a10d37bc07593c6473eb4dbec81114ae3b8ebceddfb95b4b3cfc526434bd7&=&format=webp&quality=lossless&width=1311&height=671">
+<img src="https://media.discordapp.net/attachments/808170724224925736/1202810028382494791/ronaldo-pic_1.png?ex=65cecf21&is=65bc5a21&hm=c9dd5f5bad8fd9bc815e7689f224f1704fbe8a171c0884e2d6745c2c7306c9ca&=&format=webp&quality=lossless&width=1311&height=671">
 </div>
 
 Tenho 19 anos e sou apaixonado por tecnologia em geral, comecei minha jornada de desenvolvedor em 2022, quando adentrei a o curso de Ánalise e Desenvolvimento de Sistemas e desde então busco sempre aprimorar e tentar ser melhor que ontem.
@@ -10,9 +10,10 @@ Minha meta é ser um desenvolvedor fullstack de alta qualidade e atualmente, est
 ##
 <br>
  
-<div align="center">
+<div>
     <a href="https://github.com/ronaldodiass">
-    <img src="https://github-readme-stats.vercel.app/api?username=ronaldodiass&show_icons=true&theme=dracula"/>      
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldodiass&layout=compact&show_icons=true&theme=radical"/>  
+    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldodiass&show_icons=true&theme=radical">
 </div>
 
 ##
@@ -20,11 +21,21 @@ Minha meta é ser um desenvolvedor fullstack de alta qualidade e atualmente, est
 <h2>Habilidades: </h2>
 
 <div>
-  <img align="center" alt="ronaldo-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="ronaldo-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="ronaldo-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="ronaldo-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img align="center" alt="ronaldo-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+   <img alt="ronaldo-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+   <img alt="ronaldo-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+   <img alt="ronaldo-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+   <img alt="ronaldo-js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+   <img alt="ronaldo-linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+   <img alt="ronaldo-bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+   <img alt="ronaldo-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  </a>
 </div>
 
 ##
