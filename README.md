@@ -4,7 +4,7 @@
 <img src="https://media.discordapp.net/attachments/808170724224925736/1217100424033603645/ronaldo-pic_2.png?ex=6602cc19&is=65f05719&hm=5d8496ab8483518a0a2a13a68974aea181c786c49a8b607a84c95960240569c6&=&format=webp&quality=lossless&width=1311&height=671">
 </div>
 
-Tenho 19 anos e sou apaixonado por tecnologia em geral, comecei minha jornada de desenvolvedor em 2022, quando adentrei a o curso de Ánalise e Desenvolvimento de Sistemas e desde então busco sempre aprimorar e tentar ser melhor que ontem.
+Tenho 19 anos e sou apaixonado por tecnologia em geral, comecei minha jornada de desenvolvedor em 2022, quando adentrei ao curso de Ánalise e Desenvolvimento de Sistemas e desde então busco sempre aprimorar e tentar ser melhor que ontem.
 
 Minha meta é ser um desenvolvedor fullstack de alta qualidade e atualmente, estou focado em estudos de: Linux, JavaScript, TypeScript, ReactJS, HTML e CSS, Git, NodeJS e Bootstrap.
 ##
