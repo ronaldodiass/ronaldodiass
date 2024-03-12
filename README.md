@@ -1,7 +1,7 @@
 <h1 align="center">Muito Prazer ✌️</h1>
 
 <div>
-<img src="https://media.discordapp.net/attachments/808170724224925736/1202810028382494791/ronaldo-pic_1.png?ex=65cecf21&is=65bc5a21&hm=c9dd5f5bad8fd9bc815e7689f224f1704fbe8a171c0884e2d6745c2c7306c9ca&=&format=webp&quality=lossless&width=1311&height=671">
+<img src="https://www.figma.com/file/qWEFwQ62jcUNjZp2zrbJuB/ronaldo-pic?type=design&node-id=0%3A1&mode=design&t=cHod1Vp6Be4Xwqjg-1">
 </div>
 
 Tenho 19 anos e sou apaixonado por tecnologia em geral, comecei minha jornada de desenvolvedor em 2022, quando adentrei a o curso de Ánalise e Desenvolvimento de Sistemas e desde então busco sempre aprimorar e tentar ser melhor que ontem.
